@@ -1,6 +1,6 @@
 # ASCII Art Fighter
 
-ASCII Art Fighter is a console-based RPG game where players fight against various enemies in a series of stages. The game features ASCII art visuals, a turn-based combat system, and a shop for upgrading weapons and armor.-
+ASCII Art Fighter is a console-based RPG game where players fight against various enemies in a series of stages. The game features ASCII art visuals, a turn-based combat system, and a shop for upgrading weapons and armor.
 
 ## Features
 - **Turn-Based Combat**: Fight against a variety of enemies with unique stats and abilities.
